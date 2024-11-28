@@ -22,75 +22,6 @@ Monografía técnica 26311M9, v.3 - 2024
 <div style='page-break-after: always'></div>
 
 ---
-<a id="top"></a>
-
-## Contenido
-
-<!-- Start Document Outline -->
-
-* [Introducción](#introducción)
-* [Agradecimientos](#agradecimientos)
-* [Capítulo 1. Génesis y condiciones de posibilidad del conocimiento](#capítulo-1-génesis-y-condiciones-de-posibilidad-del-conocimiento)
-	* [1.1. Tipos de conocimiento y metodologías asociadas](#11-tipos-de-conocimiento-y-metodologías-asociadas)
-	* [1.2. Nociones básicas de epistemología](#12-nociones-básicas-de-epistemología)
-	* [1.3. Versiones del escepticismo](#13-versiones-del-escepticismo)
-	* [1.4. Heterodoxia científica, protociencia y anticiencia](#14-heterodoxia-científica-protociencia-y-anticiencia)
-	* [1.5. Teorías de la verdad y criterios de certeza](#15-teorías-de-la-verdad-y-criterios-de-certeza)
-	* [1.6. Paradigmas de racionalidad y conocimiento aplicado](#16-paradigmas-de-racionalidad-y-conocimiento-aplicado)
-	* [1.7. Creencias pseudocientíficas y errores metodológicos asociados](#17-creencias-pseudocientíficas-y-errores-metodológicos-asociados)
-	* [1.8. El desarrollo de la medicina científica](#18-el-desarrollo-de-la-medicina-científica)
-		* [1.8.1. Indicadores y protocolos que han contribuido al avance de la medicina científica moderna](#181-indicadores-y-protocolos-que-han-contribuido-al-avance-de-la-medicina-científica-moderna)
-		* [1.8.2. Algunos protocolos e indicadores estandarizados](#182-algunos-protocolos-e-indicadores-estandarizados)
-	* [1.9. Sesgos y riesgo de distorsión metodológica en otras disciplinas](#19-sesgos-y-riesgo-de-distorsión-metodológica-en-otras-disciplinas)
-	* [1.10. Mala praxis y publicidad fraudulenta en medicina y salud](#110-mala-praxis-y-publicidad-fraudulenta-en-medicina-y-salud)
-	* [1.11. Intrusismo profesional](#111-intrusismo-profesional)
-* [Capítulo 2. El conocimiento científico y su instrumentalización en el debate social](#capítulo-2-el-conocimiento-científico-y-su-instrumentalización-en-el-debate-social)
-	* [2.1. Asimetría en la evolución del consenso científico y el debate social](#21-asimetría-en-la-evolución-del-consenso-científico-y-el-debate-social)
-	* [2.2. Gestión política de resultados controvertidos de la investigación científica](#22-gestión-política-de-resultados-controvertidos-de-la-investigación-científica)
-	* [2.3. El uso tóxico de la epistemología: dinámicas de poder y concepción mercantil del conocimiento](#23-el-uso-tóxico-de-la-epistemología-dinámicas-de-poder-y-concepción-mercantil-del-conocimiento)
-	* [2.4. La ciencia como actividad institucionalizada orientada al consenso de los expertos](#24-la-ciencia-como-actividad-institucionalizada-orientada-al-consenso-de-los-expertos)
-* [Capítulo 3. Consenso científico, escepticismo y negacionismo del cambio climático](#capítulo-3-consenso-científico-escepticismo-y-negacionismo-del-cambio-climático)
-	* [3.1. Escepticismo: posición filosófica *vs* duda acerca del consenso sobre el cambio climático](#31-escepticismo-posición-filosófica-vs-duda-acerca-del-consenso-sobre-el-cambio-climático)
-		* [3.1.1. Pseudoescepticismo y duda irracional](#311-pseudoescepticismo-y-duda-irracional)
-		* [3.1.2. Escepticismo ante el cambio climático](#312-escepticismo-ante-el-cambio-climático)
-	* [3.2. La credibilidad de los expertos en el debate sobre el cambio climático](#32-la-credibilidad-de-los-expertos-en-el-debate-sobre-el-cambio-climático)
-	* [3.3. La coordinación entre las ciencias e instituciones que estudian el clima](#33-la-coordinación-entre-las-ciencias-e-instituciones-que-estudian-el-clima)
-	* [3.4. El problema de la falsación en dominios interdisciplinares complejos](#34-el-problema-de-la-falsación-en-dominios-interdisciplinares-complejos)
-	* [3.5. Dificultades para acotar los dominios disciplinares concernidos en los intentos de falsación de la ciencia climática](#35-dificultades-para-acotar-los-dominios-disciplinares-concernidos-en-los-intentos-de-falsación-de-la-ciencia-climática)
-	* [3.6. Implicaciones sociales del consenso científico acerca del cambio climático](#36-implicaciones-sociales-del-consenso-científico-acerca-del-cambio-climático)
-* [Capítulo 4. Comunicación y difusión del conocimiento](#capítulo-4-comunicación-y-difusión-del-conocimiento)
-	* [4.1. Cauces formales: revistas científicas, bases de datos, congresos](#41-cauces-formales-revistas-científicas-bases-de-datos-congresos)
-	* [4.2. Cauces informales: blogs, webs especializadas, podcasts](#42-cauces-informales-blogs-webs-especializadas-podcasts)
-	* [4.3. Índices de impacto y evaluación de la calidad de las publicaciones científicas](#43-índices-de-impacto-y-evaluación-de-la-calidad-de-las-publicaciones-científicas)
-	* [4.4. Plataformas de acceso a las publicaciones científicas y apropiación de resultados de investigación](#44-plataformas-de-acceso-a-las-publicaciones-científicas-y-apropiación-de-resultados-de-investigación)
-	* [4.5. Estudios de alfabetización científica y percepción pública de la ciencia](#45-estudios-de-alfabetización-científica-y-percepción-pública-de-la-ciencia)
-* [Capítulo 5. Acceso y apropiación](#capítulo-5-acceso-y-apropiación)
-	* [5.1. El modelo tradicional de derechos de autor y propiedad intelectual](#51-el-modelo-tradicional-de-derechos-de-autor-y-propiedad-intelectual)
-	* [5.2. Quién se beneficia de los resultados de investigación](#52-quién-se-beneficia-de-los-resultados-de-investigación)
-	* [5.3. Sistema de patentes y criterios de patentabilidad](#53-sistema-de-patentes-y-criterios-de-patentabilidad)
-	* [5.4. El modelo *open-access* y las licencias *creative-commons*](#54-el-modelo-open-access-y-las-licencias-creative-commons)
-	* [5.5. Modelos cooperativos y gestión de la complejidad interdisciplinar](#55-modelos-cooperativos-y-gestión-de-la-complejidad-interdisciplinar)
-* [Capítulo 6. De la sociedad de la información a la sociedad del conocimiento](#capítulo-6-de-la-sociedad-de-la-información-a-la-sociedad-del-conocimiento)
-	* [6.1. Economía de la información y prospectiva histórico-social](#61-economía-de-la-información-y-prospectiva-histórico-social)
-	* [6.2. Política en la sociedad del conocimiento](#62-política-en-la-sociedad-del-conocimiento)
-	* [6.3. Del acceso a la participación activa en la generación de conocimiento](#63-del-acceso-a-la-participación-activa-en-la-generación-de-conocimiento)
-	* [6.4. Participación pública, democracia y conocimiento](#64-participación-pública-democracia-y-conocimiento)
-	* [6.5. Redes sociales y redes de conocimiento: la revolución humanista](#65-redes-sociales-y-redes-de-conocimiento-la-revolución-humanista)
-	* [6.6. Dataísmo, Internet de las Cosas (IoT) y algoritmos: AI y *machine learning*](#66-dataísmo-internet-de-las-cosas-iot-y-algoritmos-ai-y-machine-learning)
-	* [6.7. La irrupción de ChatGPT y otros servicios de IA generativa. Implicaciones](#67-la-irrupción-de-chatgpt-y-otros-servicios-de-ia-generativa-implicaciones)
-* [Anexo I](#anexo-i)
-	* [A1. El conocimiento científico y su estatus disciplinar](#a1-el-conocimiento-científico-y-su-estatus-disciplinar)
-	* [A2. Disciplinas sin un estatus consolidado](#a2-disciplinas-sin-un-estatus-consolidado)
-	* [A3. Disciplinas que perdieron su estatus](#a3-disciplinas-que-perdieron-su-estatus)
-	* [A4. Métodos consolidados según disciplinas](#a4-métodos-consolidados-según-disciplinas)
-	* [A5. Interdisciplinariedad teórica y dependencia metodológica](#a5-interdisciplinariedad-teórica-y-dependencia-metodológica)
-* [Listado de casos](#listado-de-casos)
-* [Glosario](#glosario)
-* [Bibliografía](#bibliografía)
-
-<!-- End Document Outline -->
-
----
 
 # Introducción
 
@@ -4682,9 +4613,3 @@ Zittrain, Jonathan. 2009. The future of the internet--and how to stop it. New Ha
 Zuboff, Shoshana. 2019. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. Nueva York, NY, Estados Unidos de América: PublicAffairs. &#x25A0;
 
 ---
-
-<!-- Opción 1: Flecha minimalista con fondo semitransparente -->
-<a href="#top" title="Volver al Principio" style="position: fixed; bottom: 20px; right: 20px; display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: rgba(169, 169, 169, 0.7); color: #fff; text-decoration: none; border-radius: 50%; box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: all 0.3s ease;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M18 15l-6-6-6 6"/>
-  </svg>
