@@ -1,38 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Filosofía y Epistemología</title>
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css" id="theme-link">
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/dark.css" id="dark-theme-link" disabled>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+   <meta name="description" content="">
+   <title>FC24</title>
+
+   <!-- Themes (light + dark) -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
+   <!-- Custom Styles -->
+   <style>
+     :root {
+       /* --theme-hue: 325; */
+     }
+   </style>
 </head>
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Filosofía y Epistemología',
-      repo: '',
-      loadSidebar: true,
-      subMaxLevel: 2,
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      }
-    };
+   <div id="app"></div>
 
-    function toggleTheme() {
-      const themeLink = document.getElementById('theme-link');
-      const darkThemeLink = document.getElementById('dark-theme-link');
-      if (themeLink.disabled) {
-        themeLink.disabled = false;
-        darkThemeLink.disabled = true;
-      } else {
-        themeLink.disabled = true;
-        darkThemeLink.disabled = false;
-      }
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <button onclick="toggleTheme()">Cambiar Tema</button>
+<script>
+  window.$docsify = function (vm) {
+    return {
+      markdown: {
+        renderer: {
+          code(code, lang) {
+            // ... use `vm` ...
+          },
+        },
+      },
+    };
+  };
+</script>
+
+   <!-- Required -->
+   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" />
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+/script>
 </body>
 </html>
