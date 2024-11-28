@@ -21,12 +21,19 @@
 <body>
    <div id="app"></div>
 
-   <script>
-     // Docsify Configuration
-     window.$docsify = {
-       // ..
-     };
-   </script>
+<script>
+  window.$docsify = function (vm) {
+    return {
+      markdown: {
+        renderer: {
+          code(code, lang) {
+            // ... use `vm` ...
+          },
+        },
+      },
+    };
+  };
+</script>
 
    <!-- Required -->
    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
