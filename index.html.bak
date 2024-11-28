@@ -16,16 +16,6 @@
       repo: ''
       loadSidebar: true,
       subMaxLevel: 2
-    autoHeaders: {
-    // Separator for header numbering (e.g., '.', '-', ')')
-    separator: '.',
-    // Boolean indicating if headers should be added to the sidebar
-    sidebar: true,
-    // Number of header levels to include (1 to 6) or an object with start and finish properties
-    levels: 4,
-    // levels: { start: 1, finish: 6 }
-    // Boolean to enable or disable debug messages
-    debug: false
   }
 };
 </script>
