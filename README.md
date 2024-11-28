@@ -145,6 +145,63 @@ The infiltration of pseudoscience into political discourse threatens democratic 
 Pseudoscientific beliefs engender profound implications for societal trust in science and scientific institutions. A study revealed that trust in science may ironically elevate vulnerability to pseudoscience, especially when claims incorporate scientific terminology or references without substantial empirical backing. This relationship indicates that while public trust is essential, it must be paired with critical thinking and scientific literacy to empower individuals to differentiate credible science from pseudoscientific claims ((260)). The perception of science as an elite domain further exacerbates skepticism, particularly in politically polarized environments ((186)). Scientific literacy initiatives that do not address cognitive biases related to trust may ultimately fail to combat pseudoscience effectively.
 
 ---
+
+```mermaid
+%%{init: {'theme': 'base'}}%%
+graph TD
+  subgraph Abducción
+    IA[Inteligencia artificial]
+    CE[Computación evolutiva]
+    DM[Diagnóstico médico]
+    DC[Diseño creativo]
+  end
+  subgraph Inducción
+    ES[Estadística]
+    CD[Ciencia de datos]
+    PS[Psicología]
+    BI[Biología]
+  end
+  subgraph Deducción
+    MA[Matemática]
+    LO[Lógica]
+    GE[Geometría]
+    FI[Física]
+  end
+  IA --> ES
+  IA --> CD
+  IA --> PS
+  IA --> BI
+  CE --> ES
+  CE --> CD
+  CE --> PS
+  CE --> BI
+  DM --> ES
+  DM --> CD
+  DM --> PS
+  DM --> BI
+  DC --> ES
+  DC --> CD
+  DC --> PS
+  DC --> BI
+  ES --> MA
+  ES --> LO
+  ES --> GE
+  ES --> FI
+  CD --> MA
+  CD --> LO
+  CD --> GE
+  CD --> FI
+  PS --> MA
+  PS --> LO
+  PS --> GE
+  PS --> FI
+  BI --> MA
+  BI --> LO
+  BI --> GE
+  BI --> FI
+
+```
+
 ---
 
 Cerramos &#x25A0;
