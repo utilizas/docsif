@@ -6,14 +6,41 @@
   <!-- Meta etiquetas para responsividad -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <!-- Estilos de docsify-themeable -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <!-- Estilos de Docsify -->
+  <link rel="stylesheet" id="theme-style" href="//unpkg.com/docsify/themes/vue.css">
 
   <!-- CSS personalizado (opcional) -->
   <!-- <link rel="stylesheet" href="custom.css"> -->
+
+  <style>
+    /* Estilos para el selector de temas */
+    .theme-switcher {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 1000;
+    }
+    .theme-switcher button {
+      padding: 10px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
+
+  <!-- Selector de temas -->
+  <div class="theme-switcher">
+    <select id="theme-selector">
+      <option value="vue.css">Vue (Claro)</option>
+      <option value="dark.css">Oscuro</option>
+      <option value="buble.css">Buble (Claro)</option>
+      <option value="darkly.css">Darkly (Oscuro)</option>
+      <!-- Añade más temas si lo deseas -->
+    </select>
+    <button id="toggle-mode">Alternar Modo 🌓</button>
+  </div>
 
   <!-- Configuración de Docsify -->
   <script>
@@ -26,19 +53,63 @@
       mermaid: {
         theme: 'default'  // Tema de Mermaid
       },
-      // Configuraciones adicionales de docsify-themeable
-      themeColor: '#4CAF50',  // Cambia el color primario del tema
-    }
+      // Otras configuraciones
+    };
   </script>
 
   <!-- Librería Mermaid -->
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script src="//unpkg.com/mermaid@10/dist/mermaid.min.js"></script>
   <!-- Plugin Mermaid para Docsify -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.min.js"></script>
+  <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.min.js"></script>
 
   <!-- Núcleo de Docsify -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!-- Plugin de docsify-themeable -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <!-- Script para alternar temas -->
+  <script>
+    (function() {
+      var themes = {
+        'vue.css': '//unpkg.com/docsify/themes/vue.css',
+        'dark.css': '//unpkg.com/docsify/themes/dark.css',
+        'buble.css': '//unpkg.com/docsify/themes/buble.css',
+        'darkly.css': '//cdnjs.cloudflare.com/ajax/libs/bootswatch/4.5.2/darkly/bootstrap.min.css',
+        // Añade más temas si lo deseas
+      };
+
+      var themeSelector = document.getElementById('theme-selector');
+      var themeStyle = document.getElementById('theme-style');
+      var toggleButton = document.getElementById('toggle-mode');
+
+      // Función para cambiar el tema
+      function changeTheme(theme) {
+        themeStyle.setAttribute('href', themes[theme]);
+        localStorage.setItem('docsify-theme', theme);
+      }
+
+      // Cargar el tema guardado
+      var savedTheme = localStorage.getItem('docsify-theme') || 'vue.css';
+      themeSelector.value = savedTheme;
+      changeTheme(savedTheme);
+
+      // Evento para cambiar de tema desde el selector
+      themeSelector.addEventListener('change', function() {
+        var selectedTheme = themeSelector.value;
+        changeTheme(selectedTheme);
+      });
+
+      // Alternar entre modo claro y oscuro
+      toggleButton.addEventListener('click', function() {
+        var currentTheme = themeSelector.value;
+        if (currentTheme.includes('dark')) {
+          // Cambiar a tema claro
+          themeSelector.value = 'vue.css';  // O el tema claro que prefieras
+        } else {
+          // Cambiar a tema oscuro
+          themeSelector.value = 'dark.css';  // O el tema oscuro que prefieras
+        }
+        changeTheme(themeSelector.value);
+      });
+    })();
+  </script>
 </body>
 </html>
