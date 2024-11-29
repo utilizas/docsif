@@ -199,7 +199,9 @@ d. **Como herramientas metodológicas**:
 
 </details>
 
+
 <details>
+
   <summary>Interrelaciones (diagrama Mermaid)</summary>
   
 ```mermaid
@@ -259,7 +261,9 @@ graph TD
 ```
 </details>
 
+
 <details>
+
   <summary>Desglose de metodologías específicas por ámbito disciplinar</summary>
 
 <blockquote style="margin: 25px; background-color: #f5f5f5; border-left: 5px solid #9400D3; font-family: 'Lato', sans-serif; color: #333;">
@@ -404,6 +408,7 @@ Si bien la CBT es altamente efectiva y estandarizada, también existen debates s
 
 </details>
 
+
 <details>
   <summary>Mostrar enlaces y referencias del aptdo.</summary>
 
@@ -423,6 +428,7 @@ Enlaces (Tabla 1)
 10. Razonamiento abductivo. https://es.wikipedia.org/wiki/Razonamiento_abductivo.  
 ```
 </details>
+
 
 ---
 
