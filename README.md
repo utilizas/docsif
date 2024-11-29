@@ -258,7 +258,6 @@ graph TD
   BI --> LO
   BI --> GE
   BI --> FI
-
 ```
 
 </details>
@@ -938,9 +937,11 @@ Las pseudociencias no se ajustan a criterios básicos de evidencia y reproducibi
 </br>
 
 <details>
+
   <summary>Mostrar gráfico 1</summary>
 
 <blockquote style="margin: 25px; background-color: #f6f6f6; border-left: 5px solid #e69500; font-family: 'Montserrat', sans-serif; color: #333333;">
+
 
 ```mermaid
 graph LR
@@ -981,12 +982,11 @@ graph LR
   P --> D
   U --> D
   U --> M
-
 ```
 
 </blockquote>
-
 </details>
+
 
 <details>
   <summary>Mostrar gráfico 2</summary>  
