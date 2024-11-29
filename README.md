@@ -581,7 +581,7 @@ Los paradigmas de racionalidad y conocimiento aplicado pueden variar según las 
 <details>
   <summary>Caso 1: Disfunciones que agravaron el desastre en la DANA de Valencia (29/10/2024)</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### Epistemología del riesgo y gestión de desastres - Las inundaciones de Valencia 2024
 
@@ -1004,7 +1004,7 @@ graph LR
 <details>
   <summary>Falsas memorias y creencias pseudocientíficas</summary>  
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 ### Relación entre distorsiones de memoria y creencias pseudocientíficas
 
@@ -1200,7 +1200,7 @@ Existen muchos protocolos y listas de verificación para abordar diferentes aspe
 <details>
   <summary>Metodología Cochrane para la revisión de ensayos clínicos</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 > Material de referencia: 
 > J. Higgins et al. (2020). Cochrane Handbook for Systematic Reviews of Interventions. *International Coaching Psychology Review*, 15(2), 123-125. https://doi.org/10.53841/bpsicpr.2020.15.2.123.  
@@ -1227,7 +1227,7 @@ Existen muchos protocolos y listas de verificación para abordar diferentes aspe
 <details>
   <summary>Aspectos a verificar en la realización de ensayos clínicos</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 ## Lista de verificación para el diseño y realización de ensayos clínicos
 
@@ -1476,7 +1476,7 @@ Los actores concernidos (legisladores, asociaciones profesionales, instituciones
 <details>
   <summary>Estudio de caso</summary>
   
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### El negocio de la cirugía estética en España y el riesgo de intrusismo y malapraxis
 
@@ -1548,7 +1548,7 @@ Los actores concernidos (legisladores, asociaciones profesionales, instituciones
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre la complejidad inherente a los intentos de caracterizar la pseudociencia, pueden servir de contraste con algunas ideas de los apartados anteriores las contribuciones recopiladas por Allison y James Kaufman:
 
@@ -1625,7 +1625,7 @@ Mientras la dinámica científica es autocorrectiva -y crítica, pero flexible, 
 <details>
   <summary>Análisis de casos </summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### 1. Pseudotecnologías y productos fraudulentos dirigidos al consumidor
 
@@ -1822,7 +1822,7 @@ La imparcialidad y objetividad en la evaluación de la producción científica r
 <details>
   <summary>Material para estudio de caso</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### 1. Porcentaje de retractación de artículos científicos y desglose por países
 
@@ -1961,7 +1961,7 @@ La tabla incluye los porcentajes totales de retractaciones sobre el total de art
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre la instrumentalización social del conocimiento (y de la ignorancia) existen muchas obras con las que ampliar ideas y conceptos que apenas están desarrollados en el apartado:
 
@@ -2014,7 +2014,7 @@ El escepticismo filosófico contemporáneo tiene poco que ver con la *versión c
 <details>
   <summary>Acerca del conflicto entre sociología y filosofía de la ciencia</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 El libro de Helen E. Longino, *The Fate of Knowledge*, es una obra de filosofía de la ciencia que busca superar el estancamiento entre investigadores de filosofía y sociología de la ciencia, cuya raíz está en el **desacuerdo sobre el papel de las fuerzas sociales en la construcción del conocimiento científico**. Longino critica la asunción común de que las fuerzas sociales son una fuente de sesgo e irracionalidad, y argumenta que la interacción social nos ayuda en la práctica a obtener un conocimiento firme y articulado racionalmente. Para ello, desarrolla un modo novedoso de dar cuenta del conocimiento científico que integra lo social y lo cognitivo, y que es sensible tanto a los usos normativos del término conocimiento como a las condiciones sociales en las que se produce el conocimiento científico. Longino también explora las implicaciones de su enfoque social para el pluralismo científico, y concluye que el enfoque social nos permite retener un concepto significativo de conocimiento frente a la pluralidad y la incertidumbre teóricas.
 
@@ -2342,7 +2342,7 @@ En este contexto, la viabilidad de los intentos de falsación implica:
 <details>
 <summary>Estudio de caso: Confirmación de la teoría neuronal de Ramón y Cajal</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 ### Cajal desmontó la teoría reticular (aunque compartió el Nobel con Camillo Golgi, reticularista)
 
@@ -2482,7 +2482,7 @@ Se trata de temas interconectados, por lo que su abordaje debe ser integral. La 
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre el *escepticismo climático* (denominarlo "negacionismo climático" sería lo correcto, puesto que se trata de una versión espuria del escepticismo metodológico), merece la pena revisar los capítulos que se indican a continuación:
 
@@ -2885,7 +2885,7 @@ https://www.fecyt.es/sites/default/files/users/user378/fecyt_psct2022_principale
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre el uso desinformado de la bibliometría y la *obsesión por la cuantificación de la ciencia*, es interesante analizar los efectos a largo plazo de la desconfianza en el criterio humano y los esquemas de control y rendición de cuentas que están burocratizando de manera preocupante la investigación científica:
 
@@ -2930,7 +2930,7 @@ La era digital ha hecho posible disponer de nuevas herramientas creativas para a
 <details>
   <summary>Estudio de caso</summary>
 
- <blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+ <blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### Cómo la industria musical calcula sus pérdidas
  
@@ -3280,7 +3280,7 @@ Basado en un análisis de los actores que intentaron influir en el discurso púb
 <details>
   <summary>Estudios de caso</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### 1. Desinformación y algoritmos de detección en redes sociales
 
@@ -3808,7 +3808,7 @@ https://www.jeuxvideo.com/news/1872865/le-pire-outil-de-manipulation-cette-etude
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; font-size: smaller; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 **1. Dataísmo**  
 
