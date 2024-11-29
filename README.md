@@ -205,7 +205,7 @@ d. **Como herramientas metodológicas**:
 <details>
 
   <summary>Interrelaciones (diagrama Mermaid)</summary>
-  
+
 ```mermaid
 graph TD
   subgraph Abducción
@@ -937,49 +937,52 @@ Las pseudociencias no se ajustan a criterios básicos de evidencia y reproducibi
 </br>
 
 <details>
+
   <summary>Mostrar gráfico 1</summary>
-<div class="mermaid">
+
+
+```mermaid
 graph LR
   subgraph Pseudociencias
-    A[Astrolog&#237;a]
+    A[Astrología]
     C[Quiromancia]
-    N[Numerolog&#237;a]
+    N[Numerología]
     R[Reiki]
-    G[Grafolog&#237;a]
+    G[Grafología]
     S[Creacionismo]
     F[Feng shui]
-    E[Homeopat&#237;a]
-    P[Parapsicolog&#237;a]
+    E[Homeopatía]
+    P[Parapsicología]
     U[Acupuntura]
   end
-  subgraph Errores Metodol&#243;gicos
-    B[Sin hip&#243;tesis falsable ni pruebas emp&#237;ricas.]
-    D[Sin mecanismo de acci&#243;n ni evidencia cient&#237;fica.]
-    J[Sin base te&#243;rica ni control experimental.]
-    K[Sin rigor matem&#225;tico ni validez estad&#237;stica.]
-    M[Sin fundamento f&#237;sico ni efecto terap&#233;utico.]
+  subgraph Errores Metodológicos
+    B[Sin hipótesis falsable ni pruebas empíricas.]
+    D[Sin mecanismo de acción ni evidencia científica.]
+    J[Sin base teórica ni control experimental.]
+    K[Sin rigor matemático ni validez estadística.]
+    M[Sin fundamento físico ni efecto terapéutico.]
   end
-  A --&gt; M
-  A --&gt; B
-  A --&gt; K
-  C --&gt; M
-  N --&gt; K
-  R --&gt; M
-  R --&gt; J
-  G --&gt; J
-  S --&gt; J
-  S --&gt; B
-  S --&gt; D
-  F --&gt; J
-  E --&gt; D
-  E --&gt; M
-  P --&gt; M
-  P --&gt; D
-  U --&gt; D
-  U --&gt; M
-</div>
-</details>
+  A --> M
+  A --> B
+  A --> K
+  C --> M
+  N --> K
+  R --> M
+  R --> J
+  G --> J
+  S --> J
+  S --> B
+  S --> D
+  F --> J
+  E --> D
+  E --> M
+  P --> M
+  P --> D
+  U --> D
+  U --> M
+```
 
+</details>
 
 
 <details>
