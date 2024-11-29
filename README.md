@@ -940,6 +940,7 @@ Las pseudociencias no se ajustan a criterios básicos de evidencia y reproducibi
 
   <summary>Mostrar gráfico 1</summary>
 
+
 ```mermaid
 graph LR
   subgraph Pseudociencias
