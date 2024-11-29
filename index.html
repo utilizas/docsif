@@ -6,11 +6,57 @@
   <!-- Meta etiquetas para responsividad -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <!-- Estilos de Docsify Themeable -->
-  <link rel="stylesheet" id="theme-style" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <!-- Estilos de Docsify -->
+  <link rel="stylesheet" id="theme-style" href="//unpkg.com/docsify/lib/themes/vue.css">
 
-  <!-- CSS personalizado (opcional) -->
-  <!-- <link rel="stylesheet" href="custom.css"> -->
+  <!-- CSS personalizado para el tema oscuro -->
+  <style id="dark-theme">
+    /* Estilos para el tema oscuro similar a "dark dimmed" */
+    body {
+      background-color: #22272e;
+      color: #adbac7;
+    }
+    .navbar, .sidebar {
+      background-color: #2d333b;
+    }
+    .navbar a, .sidebar .sidebar-nav a {
+      color: #adbac7;
+    }
+    .sidebar .sidebar-nav li.active > a {
+      color: #ffffff;
+    }
+    .markdown-section {
+      color: #adbac7;
+    }
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3 {
+      color: #adbac7;
+    }
+    .markdown-section a {
+      color: #539bf5;
+    }
+    /* Otros estilos necesarios para asemejarse a "dark dimmed" */
+  </style>
+
+  <!-- CSS personalizado para Mermaid en modo oscuro -->
+  <style id="mermaid-dark">
+    .mermaid .node rect {
+      fill: #2d333b;
+      stroke: #539bf5;
+    }
+    .mermaid .node text {
+      fill: #adbac7;
+    }
+    .mermaid .edgeLabel .label {
+      background-color: #22272e;
+      color: #adbac7;
+    }
+    .mermaid .edgePath path {
+      stroke: #539bf5;
+    }
+    /* Ajustes adicionales para Mermaid en modo oscuro */
+  </style>
 </head>
 <body>
   <div id="app"></div>
@@ -36,49 +82,59 @@
   </script>
 
   <!-- Librería Mermaid -->
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script src="//unpkg.com/mermaid@10/dist/mermaid.min.js"></script>
   <!-- Plugin Mermaid para Docsify -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.min.js"></script>
+  <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.min.js"></script>
 
   <!-- Núcleo de Docsify -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <!-- Plugin de docsify-themeable -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
   <!-- Script para alternar entre temas -->
   <script>
     (function() {
-      // Definir los temas
-      var themes = {
-        light: 'https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css',
-        dark: 'https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css'
-      };
-
       // Obtener referencias a elementos
       var themeStyle = document.getElementById('theme-style');
       var themeToggle = document.getElementById('theme-toggle');
+      var darkThemeStyle = document.getElementById('dark-theme');
+      var mermaidDarkStyle = document.getElementById('mermaid-dark');
 
       // Función para cambiar de tema
       function changeTheme(theme) {
-        themeStyle.setAttribute('href', themes[theme]);
-        localStorage.setItem('docsify-theme', theme);
-
-        // Cambiar el tema de Mermaid
-        if (window.mermaid) {
-          if (theme === 'dark') {
+        if (theme === 'dark') {
+          darkThemeStyle.disabled = false;
+          mermaidDarkStyle.disabled = false;
+          localStorage.setItem('docsify-theme', 'dark');
+          // Cambiar el tema de Mermaid
+          if (window.mermaid) {
             mermaid.initialize({ theme: 'dark' });
-          } else {
-            mermaid.initialize({ theme: 'default' });
-          }
-          // Renderizar nuevamente los diagramas
-          if (window.$docsify.mermaid) {
-            var mermaidDivs = document.querySelectorAll('.mermaid');
-            mermaidDivs.forEach(function(el) {
-              var code = el.textContent;
-              mermaid.render('generated-diagram', code, function(svgCode) {
-                el.innerHTML = svgCode;
+            // Renderizar nuevamente los diagramas
+            if (window.$docsify.mermaid) {
+              var mermaidDivs = document.querySelectorAll('.mermaid');
+              mermaidDivs.forEach(function(el) {
+                var code = el.textContent;
+                mermaid.mermaidAPI.render('generated-diagram', code, function(svgCode) {
+                  el.innerHTML = svgCode;
+                });
               });
-            });
+            }
+          }
+        } else {
+          darkThemeStyle.disabled = true;
+          mermaidDarkStyle.disabled = true;
+          localStorage.setItem('docsify-theme', 'light');
+          // Cambiar el tema de Mermaid
+          if (window.mermaid) {
+            mermaid.initialize({ theme: 'default' });
+            // Renderizar nuevamente los diagramas
+            if (window.$docsify.mermaid) {
+              var mermaidDivs = document.querySelectorAll('.mermaid');
+              mermaidDivs.forEach(function(el) {
+                var code = el.textContent;
+                mermaid.mermaidAPI.render('generated-diagram', code, function(svgCode) {
+                  el.innerHTML = svgCode;
+                });
+              });
+            }
           }
         }
       }
