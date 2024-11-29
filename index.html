@@ -7,56 +7,70 @@
    <meta name="description" content="">
    <title>FC24</title>
    <!-- 1. Theme -->
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css"
-    />
-    <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css"> -->
-    <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-defaults.css"> -->
+   <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css" />
+   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
+   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+   <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css"> -->
+   <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-defaults.css"> -->
 
-    <!-- 2. PrismJS Themes -->
-    <!-- <link rel="stylesheet" href="https://unpkg.com/prism-github/prism-github.css"> -->
-    <!-- <link rel="stylesheet" href="https://unpkg.com/prism-theme-one-dark/prism-onedark.css"> -->
+   <!-- 2. PrismJS Themes -->
+   <!-- <link rel="stylesheet" href="https://unpkg.com/prism-github/prism-github.css"> -->
+   <!-- <link rel="stylesheet" href="https://unpkg.com/prism-theme-one-dark/prism-onedark.css"> -->
 
-    <!-- 3. Custom Theme Properties -->
-    <style>
+   <!-- 3. Custom Theme Properties -->
+   <style>
       :root {
-        /* Reduce the font size */
-        /* --base-font-size: 14px; */
+         /* Reduce the font size */
+         /* --base-font-size: 14px; */
 
-        /* Change the theme color hue (0-360) */
-        /* --theme-hue: 325; */
+         /* Change the theme color hue (0-360) */
+         /* --theme-hue: 325; */
 
-        /* Add sidebar navigation bullets */
-        /* --sidebar-nav-link-before-content-l1: "😀"; */
-        /* --sidebar-nav-link-before-content-l2: "💩"; */
+         /* Add sidebar navigation bullets */
+         /* --sidebar-nav-link-before-content-l1: "😀"; */
+         /* --sidebar-nav-link-before-content-l2: "💩"; */
       }
-    </style>
+   </style>
 </head>
 <body>
    <div id="app"></div>
 
 
-    <script>
-      // 4. Docsify Configuration
-      window.$docsify = {
-        name: "",
-        repo: "https://github.com/jhildenbiddle/docsify-themeable",
-        coverpage: "",
-        homepage: "README.md",
-        // homepage   : 'https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/README.md',
-        loadSidebar: "sidebar.md",
-        auto2top: true,
-        maxLevel: 3,
-        subMaxLevel: 3,
+   <script>
+      var num = 0;
+      mermaid.initialize({ startOnLoad: false });
 
-        // 5. docsify-themeable
-        themeable: {
-          // readyTransition : false,
-          // responsiveTables: false
-        }
+      // Docsify Configuration
+      window.$docsify = {
+         name: "",
+         repo: "https://github.com/jhildenbiddle/docsify-themeable",
+         coverpage: "",
+         homepage: "README.md",
+         loadSidebar: "sidebar.md",
+         auto2top: true,
+         maxLevel: 3,
+         subMaxLevel: 3,
+         themeable: {
+            // readyTransition : false,
+            // responsiveTables: false
+         },
+         markdown: {
+            renderer: {
+               code(code, lang) {
+                  if (lang === "mermaid") {
+                     return '<div class="mermaid">' + code + '</div>';
+                  }
+                  return this.origin.code.apply(this, arguments);
+               }
+            }
+         },
+         hooks: {
+            doneEach: function() {
+               mermaid.init(undefined, document.querySelectorAll('.mermaid'));
+            }
+         }
       };
-    </script>
+   </script>
 
     <!-- Required: docsify + docsify-themeable -->
     <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
