@@ -205,7 +205,6 @@ d. **Como herramientas metodológicas**:
   <summary>Interrelaciones (diagrama Mermaid)</summary>
   
 ```mermaid
-%%{init: {'theme': 'base'}}%%
 graph TD
   subgraph Abducción
     IA[Inteligencia artificial]
