@@ -6,15 +6,19 @@
   <!-- Meta etiquetas para responsividad -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <!-- Temas (claro + oscuro) -->
-  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <!-- Estilos de Docsify Themeable -->
+  <link rel="stylesheet" id="theme-style" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 
   <!-- CSS personalizado (opcional) -->
   <!-- <link rel="stylesheet" href="custom.css"> -->
 </head>
 <body>
   <div id="app"></div>
+
+  <!-- Botón para alternar entre temas -->
+  <div id="theme-toggle" style="position: fixed; bottom: 20px; right: 20px; cursor: pointer; z-index: 1000;">
+    🌓
+  </div>
 
   <!-- Configuración de Docsify -->
   <script>
@@ -25,7 +29,7 @@
       subMaxLevel: 2,  // Nivel máximo de encabezados que se muestran en la barra lateral
       homepage: 'README.md',  // Página de inicio
       mermaid: {
-        theme: 'default'  // Tema de Mermaid
+        theme: 'default' // Se ajustará dinámicamente más adelante
       },
       // Otras configuraciones
     };
@@ -40,5 +44,56 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <!-- Plugin de docsify-themeable -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+
+  <!-- Script para alternar entre temas -->
+  <script>
+    (function() {
+      // Definir los temas
+      var themes = {
+        light: 'https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css',
+        dark: 'https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css'
+      };
+
+      // Obtener referencias a elementos
+      var themeStyle = document.getElementById('theme-style');
+      var themeToggle = document.getElementById('theme-toggle');
+
+      // Función para cambiar de tema
+      function changeTheme(theme) {
+        themeStyle.setAttribute('href', themes[theme]);
+        localStorage.setItem('docsify-theme', theme);
+
+        // Cambiar el tema de Mermaid
+        if (window.mermaid) {
+          if (theme === 'dark') {
+            mermaid.initialize({ theme: 'dark' });
+          } else {
+            mermaid.initialize({ theme: 'default' });
+          }
+          // Renderizar nuevamente los diagramas
+          if (window.$docsify.mermaid) {
+            var mermaidDivs = document.querySelectorAll('.mermaid');
+            mermaidDivs.forEach(function(el) {
+              var code = el.textContent;
+              mermaid.render('generated-diagram', code, function(svgCode) {
+                el.innerHTML = svgCode;
+              });
+            });
+          }
+        }
+      }
+
+      // Cargar el tema guardado o la preferencia por defecto
+      var savedTheme = localStorage.getItem('docsify-theme') || 'light';
+      changeTheme(savedTheme);
+
+      // Evento para alternar entre temas
+      themeToggle.addEventListener('click', function() {
+        var currentTheme = localStorage.getItem('docsify-theme') || 'light';
+        var newTheme = currentTheme === 'light' ? 'dark' : 'light';
+        changeTheme(newTheme);
+      });
+    })();
+  </script>
 </body>
 </html>
