@@ -937,52 +937,49 @@ Las pseudociencias no se ajustan a criterios básicos de evidencia y reproducibi
 </br>
 
 <details>
-
   <summary>Mostrar gráfico 1</summary>
-
-
-```mermaid
+<div class="mermaid">
 graph LR
   subgraph Pseudociencias
-    A[Astrología]
+    A[Astrolog&#237;a]
     C[Quiromancia]
-    N[Numerología]
+    N[Numerolog&#237;a]
     R[Reiki]
-    G[Grafología]
+    G[Grafolog&#237;a]
     S[Creacionismo]
     F[Feng shui]
-    E[Homeopatía]
-    P[Parapsicología]
+    E[Homeopat&#237;a]
+    P[Parapsicolog&#237;a]
     U[Acupuntura]
   end
-  subgraph Errores Metodológicos
-    B[Sin hipótesis falsable ni pruebas empíricas.]
-    D[Sin mecanismo de acción ni evidencia científica.]
-    J[Sin base teórica ni control experimental.]
-    K[Sin rigor matemático ni validez estadística.]
-    M[Sin fundamento físico ni efecto terapéutico.]
+  subgraph Errores Metodol&#243;gicos
+    B[Sin hip&#243;tesis falsable ni pruebas emp&#237;ricas.]
+    D[Sin mecanismo de acci&#243;n ni evidencia cient&#237;fica.]
+    J[Sin base te&#243;rica ni control experimental.]
+    K[Sin rigor matem&#225;tico ni validez estad&#237;stica.]
+    M[Sin fundamento f&#237;sico ni efecto terap&#233;utico.]
   end
-  A --> M
-  A --> B
-  A --> K
-  C --> M
-  N --> K
-  R --> M
-  R --> J
-  G --> J
-  S --> J
-  S --> B
-  S --> D
-  F --> J
-  E --> D
-  E --> M
-  P --> M
-  P --> D
-  U --> D
-  U --> M
-```
-
+  A --&gt; M
+  A --&gt; B
+  A --&gt; K
+  C --&gt; M
+  N --&gt; K
+  R --&gt; M
+  R --&gt; J
+  G --&gt; J
+  S --&gt; J
+  S --&gt; B
+  S --&gt; D
+  F --&gt; J
+  E --&gt; D
+  E --&gt; M
+  P --&gt; M
+  P --&gt; D
+  U --&gt; D
+  U --&gt; M
+</div>
 </details>
+
 
 
 <details>
