@@ -7,8 +7,9 @@
    <meta name="description" content="">
    <title>FC24</title>
    <!-- 1. Theme -->
-   <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css" />
-   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.0.0/mermaid.min.css">
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.0.0/mermaid.min.js"></script>
+   
    <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
    <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css"> -->
    <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-defaults.css"> -->
@@ -37,7 +38,8 @@
 
    <script>
       var num = 0;
-      mermaid.initialize({ startOnLoad: false });
+      mermaid.initialize({ startOnLoad: false 
+      });
 
       // Docsify Configuration
       window.$docsify = {
