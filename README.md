@@ -1991,7 +1991,7 @@ El escepticismo se presenta en grados. Puede negar la existencia (o dudar de la 
 
 El escepticismo ante el consenso sobre el cambio climático es una forma de **negacionismo** o de **pseudoescepticismo**, que rechaza o minimiza la evidencia científica que respalda la existencia, la gravedad y la responsabilidad humana del calentamiento global y sus consecuencias. El escepticismo ante el consenso sobre el cambio climático no se basa en argumentos racionales o empíricos, sino en intereses políticos, económicos o ideológicos, que buscan desacreditar o deslegitimar a la comunidad científica y a las instituciones que alertan sobre el problema ambiental. 
 
-> El escepticismo ante el consenso sobre el cambio climático no es una postura filosófica, sino una estrategia de desinformación y manipulación.
+> El escepticismo ante el consenso sobre el cambio climático no es una postura filosófica, sino una estrategia de desinformación y manipulación.  
 > M. Boykoff (2015). “<a href="https://metode.es/revistas-metode/monograficos/consenso-y-oposicion-al-cambio-climatico.html" target="_blank">Consenso y oposición al cambio climático</a>”. *Mètode*, 21/05/2015 .
 
 
