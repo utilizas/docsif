@@ -137,7 +137,7 @@ En el dominio amplio de la investigación científica, cada ámbito disciplinar 
 <details>
   <summary>Enfoques y estilos de trabajo en investigación</summary>
 
-<blockquote style="margin: 25px; background-color: #f6f6f6; border-left: 5px solid #e69500; font-family: 'Montserrat', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #e69500; border-top-left-radius: 5px; border-bottom-left-radius: 5px; font-family: 'Montserrat', sans-serif; color: #e0e0e0;">
 
 **El recurso a la abducción, inducción y deducción en investigación**
 
@@ -988,7 +988,7 @@ graph LR
 <details>
   <summary>Mostrar gráfico 2</summary>  
 
-<blockquote style="margin: 25px; background-color: #f6f6f6; border-left: 5px solid #e69500; font-family: 'Montserrat', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #e69500; border-top-left-radius: 5px; border-bottom-left-radius: 5px; font-family: 'Montserrat', sans-serif; color: #e0e0e0;">
 
 **Pseudociencias y déficits metodológicos asociados**
 
@@ -2082,7 +2082,7 @@ Pero la actitud escéptica puede ser instrumentalizada para degenar en mero **<a
 <details>
   <summary style="font-weight: bold; ">🎲 Desinformación y democracia</summary>
 
-<blockquote style="margin: 25px; background-color: #f6f6f6; border-left: 5px solid #e69500; font-family: 'Montserrat', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #e69500; border-top-left-radius: 5px; border-bottom-left-radius: 5px; font-family: 'Montserrat', sans-serif; color: #e0e0e0;">
 
 Puedes poner a prueba tus nociones previas sobre el fenómeno de la desinformación y cómo prevenirlo con estos asistentes de razonamiento:
 
