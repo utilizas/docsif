@@ -71,7 +71,7 @@ Los dominios disciplinares que sirven de referencia se caracterizan por su capac
 - <a href="FC-subdiscipl-cient.html" target="_blank">**Conocimiento <mark>científico</mark>**</a>: se obtiene mediante el uso del método científico, que consiste en plantear hipótesis, diseñar experimentos, recoger datos, analizar resultados y elaborar teorías. Es un conocimiento objetivo, racional, verificable y falible.
 - **Conocimiento <mark>matemático</mark>**: se basa en el uso de principios lógicos y simbólicos para resolver problemas abstractos y cuantitativos. Es un conocimiento deductivo, exacto, universal y necesario.
 
-Pero existen otros tipos consolidados o caracterizados por el uso que parecen responden a criterios menos estrictos, lo que puede inducir comprensiones simplificadoras, estereotipadas o sesgadas de su complejidad:
+Pero existen otros tipos consolidados o caracterizados por el uso que parecen responder a criterios menos estrictos, lo que puede inducir comprensiones simplificadoras, estereotipadas o sesgadas de su complejidad:
 
 - **Conocimiento filosófico**: se origina en la reflexión crítica y racional sobre los problemas fundamentales de la existencia, el conocimiento, la moral, la política, el arte, etc. No se limita a los hechos empíricos ni a las teorías científicas, sino que busca elementos ligados al sentido y la comprensión de la experiencia individual, en conexión con la realidad social y la naturaleza. Sus manifestaciones pueden ser muy heterogéneas, incluyendo tanto discursos y estilos de razonamiento muy dependientes de los resultados de disciplinas bien consolidadas (biología, física, matemática) como de *otras formas de expresión más interpretativas* (sociología, antropología, historia) o centradas en la creación y expresión subjetiva (literatura, producción artística).
 
@@ -2211,8 +2211,6 @@ El diálogo interdisciplinar e intersectorial puede facilitar el intercambio y l
 <blockquote style="margin: 25px; background-color: #ffffff; border-left: 5px solid #007acc; font-family: 'Montserrat', sans-serif; color: #000000; padding: 10px;">
 
 ## Extreme Weather Events and Evidence Against Climate Change Skepticism
-
-<p style="margin: 0; color: #333333;">
 
 ### 1. **Heatwaves and Wildfires:**
 * **2023 Canadian Wildfires:** The wildfires that ravaged Canada in 2023 were unprecedented in their scale and intensity, contributing significantly to global air pollution.<sup>1</sup>  
