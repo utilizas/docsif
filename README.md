@@ -581,7 +581,7 @@ Los paradigmas de racionalidad y conocimiento aplicado pueden variar según las 
 <details>
   <summary>Caso 1: Disfunciones que agravaron el desastre en la DANA de Valencia (29/10/2024)</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### Epistemología del riesgo y gestión de desastres - Las inundaciones de Valencia 2024
 
@@ -818,7 +818,7 @@ Además de las referencias, conviene familiarizarse con estos recursos:
 <details>
   <summary>Caso 2: Licencia de actividad en zonas inundables</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### 1. Mapas fiables de riesgo de inundación y gestión de licencias de actividad 
 
@@ -1004,7 +1004,7 @@ graph LR
 <details>
   <summary>Falsas memorias y creencias pseudocientíficas</summary>  
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 ### Relación entre distorsiones de memoria y creencias pseudocientíficas
 
@@ -1081,7 +1081,7 @@ El <mark>**método científico**</mark> se basa en la observación, la formulaci
 <details>
   <summary>Elementos a considerar en un experimento controlado</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 **Conceptos clave**
 - *Experimentos controlados*: una prueba científica hecha bajo condiciones controladas (solo uno -o algunos- factores cambian en un momento dado, mientras que el resto se mantiene constante.
@@ -1200,7 +1200,7 @@ Existen muchos protocolos y listas de verificación para abordar diferentes aspe
 <details>
   <summary>Metodología Cochrane para la revisión de ensayos clínicos</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 > Material de referencia: 
 > J. Higgins et al. (2020). Cochrane Handbook for Systematic Reviews of Interventions. *International Coaching Psychology Review*, 15(2), 123-125. https://doi.org/10.53841/bpsicpr.2020.15.2.123.  
@@ -1227,7 +1227,7 @@ Existen muchos protocolos y listas de verificación para abordar diferentes aspe
 <details>
   <summary>Aspectos a verificar en la realización de ensayos clínicos</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 ## Lista de verificación para el diseño y realización de ensayos clínicos
 
@@ -1476,7 +1476,7 @@ Los actores concernidos (legisladores, asociaciones profesionales, instituciones
 <details>
   <summary>Estudio de caso</summary>
   
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### El negocio de la cirugía estética en España y el riesgo de intrusismo y malapraxis
 
@@ -1548,7 +1548,7 @@ Los actores concernidos (legisladores, asociaciones profesionales, instituciones
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre la complejidad inherente a los intentos de caracterizar la pseudociencia, pueden servir de contraste con algunas ideas de los apartados anteriores las contribuciones recopiladas por Allison y James Kaufman:
 
@@ -1625,7 +1625,7 @@ Mientras la dinámica científica es autocorrectiva -y crítica, pero flexible, 
 <details>
   <summary>Análisis de casos </summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### 1. Pseudotecnologías y productos fraudulentos dirigidos al consumidor
 
@@ -1822,7 +1822,7 @@ La imparcialidad y objetividad en la evaluación de la producción científica r
 <details>
   <summary>Material para estudio de caso</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### 1. Porcentaje de retractación de artículos científicos y desglose por países
 
@@ -1961,7 +1961,7 @@ La tabla incluye los porcentajes totales de retractaciones sobre el total de art
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre la instrumentalización social del conocimiento (y de la ignorancia) existen muchas obras con las que ampliar ideas y conceptos que apenas están desarrollados en el apartado:
 
@@ -2014,7 +2014,7 @@ El escepticismo filosófico contemporáneo tiene poco que ver con la *versión c
 <details>
   <summary>Acerca del conflicto entre sociología y filosofía de la ciencia</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 El libro de Helen E. Longino, *The Fate of Knowledge*, es una obra de filosofía de la ciencia que busca superar el estancamiento entre investigadores de filosofía y sociología de la ciencia, cuya raíz está en el **desacuerdo sobre el papel de las fuerzas sociales en la construcción del conocimiento científico**. Longino critica la asunción común de que las fuerzas sociales son una fuente de sesgo e irracionalidad, y argumenta que la interacción social nos ayuda en la práctica a obtener un conocimiento firme y articulado racionalmente. Para ello, desarrolla un modo novedoso de dar cuenta del conocimiento científico que integra lo social y lo cognitivo, y que es sensible tanto a los usos normativos del término conocimiento como a las condiciones sociales en las que se produce el conocimiento científico. Longino también explora las implicaciones de su enfoque social para el pluralismo científico, y concluye que el enfoque social nos permite retener un concepto significativo de conocimiento frente a la pluralidad y la incertidumbre teóricas.
 
@@ -2342,7 +2342,7 @@ En este contexto, la viabilidad de los intentos de falsación implica:
 <details>
 <summary>Estudio de caso: Confirmación de la teoría neuronal de Ramón y Cajal</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 ### Cajal desmontó la teoría reticular (aunque compartió el Nobel con Camillo Golgi, reticularista)
 
@@ -2482,7 +2482,7 @@ Se trata de temas interconectados, por lo que su abordaje debe ser integral. La 
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre el *escepticismo climático* (denominarlo "negacionismo climático" sería lo correcto, puesto que se trata de una versión espuria del escepticismo metodológico), merece la pena revisar los capítulos que se indican a continuación:
 
@@ -2619,7 +2619,7 @@ Factores externos —campo de estudio y popularidad del tema, p. ej.— pueden s
 <details>
   <summary>Caso 1: Cartel de citas</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### Caso 1: El catedrático que se cita a sí mismo miles de veces
 
@@ -2668,7 +2668,7 @@ Factores externos —campo de estudio y popularidad del tema, p. ej.— pueden s
 <details>
   <summary>Caso 2: Sesgo y limitaciones del JIF</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### Caso 2: Sesgo y limitaciones del *Journal Impact Factor*
 
@@ -2737,7 +2737,7 @@ Las plataformas de acceso a las publicaciones científicas influyen en la apropi
 <details>
   <summary>Caso a estudiar</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### I. La crisis del ébola en África Occidental y la apropiación de resultados de investigación
 
@@ -2821,7 +2821,7 @@ Los *<mark>estudios de alfabetización científica y percepción pública</mark>
 
 Los *<mark>sesgos epistémicos</mark>* son *distorsiones o errores cognitivos que afectan al proceso de adquisición, procesamiento y uso del conocimiento*. Pueden tener diversas causas, como las limitaciones de la memoria, la influencia de las emociones, las preferencias personales o las creencias previas. Los sesgos epistémicos pueden tener consecuencias negativas para el aprendizaje, el razonamiento o la toma de decisiones. 
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 Los estudios de alfabetización científica y percepción pública de la ciencia han identificado **varios sesgos epistémicos** que pueden afectar a la comprensión y valoración de la ciencia entre colectivos de público diferenciados:
 
@@ -2842,7 +2842,7 @@ Los sesgos epistémicos ponen de manifiesto la *dependencia humana de heurístic
 <details>
   <summary>Caso a estudiar</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### 1. Comunicación educativo-dialógica o persuasivo-promocional de la ciencia
 
@@ -2885,7 +2885,7 @@ https://www.fecyt.es/sites/default/files/users/user378/fecyt_psct2022_principale
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 Sobre el uso desinformado de la bibliometría y la *obsesión por la cuantificación de la ciencia*, es interesante analizar los efectos a largo plazo de la desconfianza en el criterio humano y los esquemas de control y rendición de cuentas que están burocratizando de manera preocupante la investigación científica:
 
@@ -2930,7 +2930,7 @@ La era digital ha hecho posible disponer de nuevas herramientas creativas para a
 <details>
   <summary>Estudio de caso</summary>
 
- <blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### Cómo la industria musical calcula sus pérdidas
  
@@ -2994,7 +2994,7 @@ La **sociedad en su conjunto** se beneficia de los resultados y avances científ
 <details>
   <summary>Caso a estudiar</summary>
   
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### Informe sobre el impacto económico de la I+D, destinatarios y canales de distribución de beneficios
 
@@ -3063,7 +3063,7 @@ El sistema de patentes es, por tanto, un mecanismo complejo y dinámico, que req
 <details>
   <summary>Caso a estudiar</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### La patentabilidad de genes humanos
 
@@ -3185,7 +3185,7 @@ Los beneficios de la cooperación interdisciplinar superan con creces sus inconv
 <details>
   <summary>Patrones de colaboración científica entre países, en función de sus ingresos</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 El objetivo del estudio de Aksnes y su equipo es analizar la evolución de la colaboración internacional en investigación desde 1980 hasta 2021. Examinan los principales patrones globales, así como los específicos de cada país, grupo de países y diferentes áreas de investigación. Utilizan la base de datos Web of Science Core collection. Se analizan más de 50 millones de publicaciones utilizando datos de coautoría. La colaboración internacional se define como las publicaciones cuyos autores están afiliados a instituciones situadas en más de un país. A nivel mundial, la proporción de publicaciones que representan colaboración internacional ha aumentado gradualmente del 4,7% en 1980 al 25,7% en 2021. La proporción de este tipo de publicaciones dentro de cada país es mayor y, en 2021, variaba de menos del 30% a más del 90%. Existen notables disparidades en las tendencias temporales, lo que indica que el proceso de internacionalización ha afectado a los países de diferentes maneras. Varios factores, como el tamaño del país, el nivel de renta y la geopolítica, pueden explicar esta variación. El estudio proporciona promedios, indicadores y conceptos globales que pueden constituir un marco de referencia útil para futuros estudios comparativos de la colaboración internacional en investigación. Originalidad/valor: Los estudios macroeconómicos a largo plazo sobre la colaboración internacional son escasos y, como novedad, este estudio incluye un análisis según la división de países del Banco Mundial en cuatro grupos de renta.
 
@@ -3262,7 +3262,7 @@ Aspectos intangibles pero de gran valor simbólico pueden excluir del mercado a 
 <details>
   <summary>Texto: Sobre propaganda y desinformación a través de las redes</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 Yochai Benkler y sus colaboradores examinan la forma, composición y prácticas del panorama de los medios políticos de Estados Unidos. Exploran las raíces de la actual crisis epistémica en la comunicación política, centrándose en las notables elecciones presidenciales de Estados Unidos de 2016 que culminaron con la victoria de Donald Trump y el primer año de su presidencia. Los autores presentan un mapa detallado del panorama de los medios políticos estadounidenses basado en el análisis de millones de historias y publicaciones en las redes sociales, que revela un ecosistema de medios altamente polarizado y asimétrico. Estudios de caso detallados rastrean el surgimiento y la propagación de desinformación en la esfera pública estadounidense que se aprovechó de las debilidades estructurales de las instituciones mediáticas en todo el espectro político. 
 
@@ -3280,7 +3280,7 @@ Basado en un análisis de los actores que intentaron influir en el discurso púb
 <details>
   <summary>Estudios de caso</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 #### 1. Desinformación y algoritmos de detección en redes sociales
 
@@ -3395,7 +3395,7 @@ Las oportunidades asociadas con la dinámica política de la sociedad del conoci
 <details>
  <summary>Datos de acceso a Internet por grupos afroamericanos, blancos e hispanos en EE.UU.</summary>
  
- <blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+ <blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 1. <a href="https://sites.tufts.edu/digitalplanet/files/2023/08/TFS-Hex-States-01-2048x1152.jpg" target="_blank">Access to computers and internet connection by race and ethnicity</a> </br> 
 2. <a href="https://sites.tufts.edu/digitalplanet/files/2023/08/TFS-Hex-States-02-scaled.jpg" target="_blank">Workforce representation by race and ethnicity in highly digital occupations</a>
@@ -3497,7 +3497,7 @@ Entre otros beneficios, <mark>la producción participativa de nuevos conocimient
 <details>
  <summary>Cómo las redes sociales remodelan el compromiso político</summary>
  
- <blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+ <blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 Theocharis y otros estudian cómo las oportunidades de participación política se han ido ampliando durante años, más recientemente a través de herramientas digitales. Las plataformas de redes sociales se han integrado bien en la participación cívica y política. Utilizando una muestra transnacional de Estados Unidos, Reino Unido y Francia, examinan si los actos de participación asociados con las redes sociales deben clasificarse utilizando una solución tradicional de cinco factores para la estructura de los actos participativos. Se deja de lado la distinción entre participación en línea y fuera de línea, centrándose en cambio en actos apoyados y habilitados por las redes sociales y, en particular, en las diferencias entre el uso de Twitter y Facebook. El análisis muestra que <mark>los actos habilitados por las redes sociales no cargan con factores tradicionales en la estructura de participación</mark>.
 
@@ -3544,7 +3544,7 @@ Sin controles formales de calidad y sistemas costosos de verificación de hechos
 <details>
   <summary>Caso 1: Bulos y desinformación a través de las redes sociales</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 **I. Componentes humanísticos en la interacción a través de redes sociales en línea**
 
@@ -3601,7 +3601,7 @@ Sin controles formales de calidad y sistemas costosos de verificación de hechos
 <details>
   <summary>Caso 2: Youtube y las teorías de la conspiración</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 **1. Cómo YouTube y otras redes sociales amplifican las teorías QAnon de la conspiración**
 
@@ -3674,7 +3674,7 @@ En lo que afecta a las oportunidades de empleo, las tecnologías basadas en los 
 <details>
   <summary>Estudio de caso</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### Riesgos del *dataísmo*: Uso de macrodatos y algoritmos para predecir y prevenir el crimen
 
@@ -3762,7 +3762,7 @@ Enlaces
 <details>
   <summary>Dos casos sobre chatbots persuasivos</summary>
 
-<blockquote style="margin: 25px; background-color: #e0f2f1; border-left: 5px solid #00695c; font-family: 'Roboto', sans-serif; color: #333333;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #81b466; font-family: 'Roboto', sans-serif; color: #333333;">
 
 #### Caso 1: Replika y los usos de grandes modelos de lenguaje para fines no previstos en su diseño 
 
@@ -3808,7 +3808,7 @@ https://www.jeuxvideo.com/news/1872865/le-pire-outil-de-manipulation-cette-etude
 <details>
   <summary style="font-weight: bold; ">🔍 Revisión y contraste</summary>
 
-<blockquote style="margin: 25px; background-color: #1e1e1e; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #4caf50; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 **1. Dataísmo**  
 
