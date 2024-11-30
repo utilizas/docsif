@@ -2288,9 +2288,9 @@ When discussing with climate change skeptics, it's important to focus on observe
 13. Extensión del hielo marino ártico | CMEMS. (s. f.). https://marine.copernicus.eu/es/ocean-climate-portal/arctic-sea-ice-extent.  
 14. Europa Press (10/03/2022). El Ártico pierde un tercio de su hielo marino invernal en 18 años. europapress.es. https://www.europapress.es/ciencia/cambio-climatico/noticia-artico-pierde-tercio-hielo-marino-invernal-18-anos-20220310131103.html.  
 15. Treinta años de registros satelitales para monitorear el aumento del nivel del mar - NASA Ciencia. (29/03/2023). https://ciencia.nasa.gov/ciencias-terrestres/tres-decadas-de-registros-satelitales-para-monitorear-el-aumento-del-nivel-del-mar/.  
-16. M. Stone, M. (9/03/2021): La tierra se hunde y el nivel del mar aumenta: la doble crisis que afrontan las comunidades costeras. 
+16. Stone, M. (9/03/2021): La tierra se hunde y el nivel del mar aumenta: la doble crisis que afrontan las comunidades costeras. 
 https://www.nationalgeographic.es/medio-ambiente/2021/03/tierra-se-hunde-nivel-del-mar-aumenta-crisis-doble-comunidades-costeras.  
-17. Noticias ONU (2024, 23 septiembre). ¿Qué es el aumento del nivel del mar y por qué afecta a nuestro futuro? https://news.un.org/es/story/2024/08/1532281.  </p>
+17. Noticias ONU (2024, 23 septiembre). ¿Qué es el aumento del nivel del mar y por qué afecta a nuestro futuro? https://news.un.org/es/story/2024/08/1532281.</p>
 
 </blockquote>
 
