@@ -2204,7 +2204,6 @@ Para afrontar el problema de la falsación en dominios interdisciplinares comple
 
 El diálogo interdisciplinar e intersectorial puede facilitar el intercambio y la integración de conocimientos y experiencias entre los distintos actores con capacidad técnica para comprobar experimentalmente los fenómenos relevantes y la evolución de los indicadores en la escala temporal adecuada. Sin criterios rigurosos y transparentes para evaluar la calidad, la relevancia y la fiabilidad del conocimiento producido y comunicado en estos dominios no resulta fácil avanzar hacia soluciones consensuadas, públicamente aceptadas y económicamente sostenibles, considerando el desglose de impactos y circunstancias sociales que cualquier modificación del marco regulador puede inducir en los valores y expectativas de las personas y entidades afectadas.
 
-
 <details>
   <summary>Evidencia y datos de impacto vs escepticismo</summary>
 
