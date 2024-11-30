@@ -2208,7 +2208,7 @@ El diálogo interdisciplinar e intersectorial puede facilitar el intercambio y l
 <details>
   <summary>Evidencia y datos de impacto vs escepticismo</summary>
 
-<blockquote style="margin: 25px; background-color: #; border-left: 5px solid #007acc; font-family: 'Montserrat', sans-serif; color: #; padding: 10px;">
+<blockquote style="margin: 25px; background-color: #3B3A39; border-left: 5px solid #007acc; font-family: 'Roboto', sans-serif; font-size: smaller; color: #e0e0e0;">
 
 ## Extreme Weather Events and Evidence Against Climate Change Skepticism
 
